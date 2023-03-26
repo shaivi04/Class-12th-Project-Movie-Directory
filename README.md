@@ -1,11 +1,14 @@
 # Movie-Directory
 
 
-HOW TO RUN?
-python 3 code.py
+## How to Run
 
+```python
+python3 code.py
+```
 
-WHAT IT DOES?
+## What it does
+
 
 In a menu driven interface, the application is providing the following options 
 1)Create
