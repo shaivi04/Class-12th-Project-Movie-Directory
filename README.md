@@ -1,4 +1,4 @@
-# Class-12th Project:Movie-Directory
+# Movie-Directory
 
 
 ## How to Run
